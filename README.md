@@ -9,7 +9,7 @@ Sirve para agregar cambios en tus archivos al área de preparación (staging are
 Después de agregar los cambios al área de preparación, debes confirmarlos utilizando este comando. Y escribes un comentario sobre los cambios hechos. Ejemplo: git commit -m "Texto de ejemplo"
 
 ### Git push:
-Se utiliza para enviar tus confirmaciones (commits) locales a un repositorio remoto, como GitHub o GitLab. Por ejemplo, para enviar los cambios al repositorio remoto llamado "origin" en la rama actual
+Sirve para enviar los cambios (commits) locales a un repositorio remoto.
 
 ### Git pull:
 Sirve para traer los cambios hechos desde el repositorio remoto al repositorio local. 
